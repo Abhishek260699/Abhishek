@@ -1,0 +1,1 @@
+insert into LoginBean values(16,"vasu","mathi");
